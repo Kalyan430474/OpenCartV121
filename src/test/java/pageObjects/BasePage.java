@@ -15,6 +15,5 @@ public class BasePage {
 
 }
 
-/* all the page object classes must be drived from base page
- * to achieve reusability
+/* all the page object classes must be drived from base page and this is used for enhancing reusability
  */
