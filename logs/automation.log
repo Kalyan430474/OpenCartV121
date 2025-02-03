@@ -1,0 +1,450 @@
+02:16:24.070 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\MY PERSONAL\eclipse-workspace\SeleniumWebDriver\OpenCartV121\testng.xml"
+02:16:24.248 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\MY PERSONAL\eclipse-workspace\SeleniumWebDriver\OpenCartV121\testng.xml
+
+02:16:31.368 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+02:16:31.639 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Clicked on My Account Link ****
+02:16:32.060 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Clicked on Register Link ****
+02:16:32.063 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Providing customer details ****
+02:16:32.979 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Validating expected Message ****
+02:16:35.008 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+02:23:54.536 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\MY PERSONAL\eclipse-workspace\SeleniumWebDriver\OpenCartV121\crossbrowsertesting.xml"
+02:23:54.751 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\MY PERSONAL\eclipse-workspace\SeleniumWebDriver\OpenCartV121\crossbrowsertesting.xml
+
+02:23:58.619 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+02:23:58.702 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Clicked on My Account Link ****
+02:23:59.422 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Clicked on Register Link ****
+02:23:59.424 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Providing customer details ****
+02:24:00.400 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Validating expected Message ****
+02:24:02.430 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+02:24:08.482 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+02:24:08.728 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Clicked on My Account Link ****
+02:24:09.137 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Clicked on Register Link ****
+02:24:09.138 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Providing customer details ****
+02:24:10.215 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Validating expected Message ****
+02:24:12.236 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+02:25:40.765 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\MY PERSONAL\eclipse-workspace\SeleniumWebDriver\OpenCartV121\crossbrowsertesting.xml
+
+02:25:44.984 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+02:25:45.285 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Clicked on My Account Link ****
+02:25:45.771 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Clicked on Register Link ****
+02:25:45.773 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Providing customer details ****
+02:25:47.136 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+02:25:47.396 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **** Clicked on My Account Link ****
+02:25:47.472 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Validating expected Message ****
+02:25:47.851 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **** Clicked on Register Link ****
+02:25:47.852 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **** Providing customer details ****
+02:25:48.829 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **** Validating expected Message ****
+02:25:49.518 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+02:25:50.859 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+02:27:48.965 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\MY PERSONAL\eclipse-workspace\SeleniumWebDriver\OpenCartV121\crossbrowsertesting.xml
+
+02:27:52.985 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+02:27:53.239 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Clicked on My Account Link ****
+02:27:53.680 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Clicked on Register Link ****
+02:27:53.683 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Providing customer details ****
+02:27:54.810 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Validating expected Message ****
+02:27:55.855 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+02:27:56.119 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **** Clicked on My Account Link ****
+02:27:56.538 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **** Clicked on Register Link ****
+02:27:56.539 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **** Providing customer details ****
+02:27:56.881 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+02:27:57.592 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **** Validating expected Message ****
+02:27:59.623 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+02:43:39.635 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\MY PERSONAL\eclipse-workspace\SeleniumWebDriver\OpenCartV121\master.xml
+
+02:45:45.397 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\MY PERSONAL\eclipse-workspace\SeleniumWebDriver\OpenCartV121\master.xml
+
+02:47:03.542 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\MY PERSONAL\eclipse-workspace\SeleniumWebDriver\OpenCartV121\master.xml
+
+02:47:38.046 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\MY PERSONAL\eclipse-workspace\SeleniumWebDriver\OpenCartV121\master.xml
+
+02:47:42.337 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+02:47:43.297 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Clicked on My Account Link ****
+02:47:43.930 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Clicked on Register Link ****
+02:47:43.932 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Providing customer details ****
+02:47:45.282 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Validating expected Message ****
+02:47:47.311 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+03:15:13.624 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\MY PERSONAL\eclipse-workspace\SeleniumWebDriver\OpenCartV121\master.xml
+
+03:15:17.609 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+03:15:17.694 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Clicked on My Account Link ****
+03:15:18.268 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Clicked on Register Link ****
+03:15:18.270 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Providing customer details ****
+03:15:19.458 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Validating expected Message ****
+03:15:21.496 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+03:15:48.761 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\MY PERSONAL\eclipse-workspace\SeleniumWebDriver\OpenCartV121\master.xml
+
+03:17:06.369 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\MY PERSONAL\eclipse-workspace\SeleniumWebDriver\OpenCartV121\master.xml
+
+03:18:13.747 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\MY PERSONAL\eclipse-workspace\SeleniumWebDriver\OpenCartV121\testng.xml
+
+03:19:19.861 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\MY PERSONAL\eclipse-workspace\SeleniumWebDriver\OpenCartV121\master.xml
+
+03:21:27.653 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\MY PERSONAL\eclipse-workspace\SeleniumWebDriver\OpenCartV121\master.xml
+
+03:23:57.068 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\MY PERSONAL\eclipse-workspace\SeleniumWebDriver\OpenCartV121\master.xml
+
+03:24:00.813 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ****
+03:24:00.974 [main] INFO  testCases.TC002_LoginTest - **** Clicked on My Account Link ****
+03:24:01.215 [main] INFO  testCases.TC002_LoginTest - **** Clicked on Login Link ****
+03:24:02.641 [main] INFO  testCases.TC002_LoginTest - **** Validating expected Message ****
+03:24:04.698 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
+03:30:34.676 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\MY PERSONAL\eclipse-workspace\SeleniumWebDriver\OpenCartV121\master.xml
+
+03:30:43.667 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+03:30:45.589 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Clicked on My Account Link ****
+03:30:46.537 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Clicked on Register Link ****
+03:30:46.544 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Providing customer details ****
+03:30:49.989 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Validating expected Message ****
+03:30:52.074 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+03:31:01.341 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ****
+03:31:03.354 [main] INFO  testCases.TC002_LoginTest - **** Clicked on My Account Link ****
+03:31:03.852 [main] INFO  testCases.TC002_LoginTest - **** Clicked on Login Link ****
+03:31:05.191 [main] INFO  testCases.TC002_LoginTest - **** Validating expected Message ****
+03:31:07.348 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
+04:48:40.038 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\MY PERSONAL\eclipse-workspace\SeleniumWebDriver\OpenCartV121\master.xml
+
+04:48:46.455 [main] INFO  testCases.TC003_LoginDTT - **** Starting of TC003_LoginDTT ****
+04:48:52.730 [main] INFO  testCases.TC003_LoginDTT - **** Finished TC003_LoginDTT ****
+04:48:52.735 [main] INFO  testCases.TC003_LoginDTT - **** Starting of TC003_LoginDTT ****
+04:48:54.074 [main] INFO  testCases.TC003_LoginDTT - **** Starting of TC003_LoginDTT ****
+04:48:55.422 [main] INFO  testCases.TC003_LoginDTT - **** Finished TC003_LoginDTT ****
+04:48:55.425 [main] INFO  testCases.TC003_LoginDTT - **** Starting of TC003_LoginDTT ****
+04:48:56.789 [main] INFO  testCases.TC003_LoginDTT - **** Starting of TC003_LoginDTT ****
+04:48:58.146 [main] INFO  testCases.TC003_LoginDTT - **** Finished TC003_LoginDTT ****
+04:48:58.148 [main] INFO  testCases.TC003_LoginDTT - **** Starting of TC003_LoginDTT ****
+04:49:19.280 [main] INFO  testCases.TC003_LoginDTT - **** Starting of TC003_LoginDTT ****
+04:49:20.678 [main] INFO  testCases.TC003_LoginDTT - **** Finished TC003_LoginDTT ****
+04:51:01.451 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\MY PERSONAL\eclipse-workspace\SeleniumWebDriver\OpenCartV121\master.xml
+
+04:51:06.185 [main] INFO  testCases.TC003_LoginDTT - **** Starting of TC003_LoginDTT ****
+04:51:10.457 [main] INFO  testCases.TC003_LoginDTT - **** Finished TC003_LoginDTT ****
+04:51:10.463 [main] INFO  testCases.TC003_LoginDTT - **** Starting of TC003_LoginDTT ****
+04:51:11.949 [main] INFO  testCases.TC003_LoginDTT - **** Finished TC003_LoginDTT ****
+04:51:11.953 [main] INFO  testCases.TC003_LoginDTT - **** Starting of TC003_LoginDTT ****
+04:51:13.655 [main] INFO  testCases.TC003_LoginDTT - **** Finished TC003_LoginDTT ****
+04:51:13.658 [main] INFO  testCases.TC003_LoginDTT - **** Starting of TC003_LoginDTT ****
+04:51:15.064 [main] INFO  testCases.TC003_LoginDTT - **** Starting of TC003_LoginDTT ****
+04:51:16.454 [main] INFO  testCases.TC003_LoginDTT - **** Finished TC003_LoginDTT ****
+04:51:16.456 [main] INFO  testCases.TC003_LoginDTT - **** Starting of TC003_LoginDTT ****
+04:51:37.455 [main] INFO  testCases.TC003_LoginDTT - **** Starting of TC003_LoginDTT ****
+04:51:39.326 [main] INFO  testCases.TC003_LoginDTT - **** Finished TC003_LoginDTT ****
+04:56:14.179 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\MY PERSONAL\eclipse-workspace\SeleniumWebDriver\OpenCartV121\master.xml
+
+04:56:18.856 [main] INFO  testCases.TC003_LoginDTT - **** Starting of TC003_LoginDTT ****
+04:56:20.536 [main] INFO  testCases.TC003_LoginDTT - **** Finished TC003_LoginDTT ****
+04:56:20.542 [main] INFO  testCases.TC003_LoginDTT - **** Starting of TC003_LoginDTT ****
+04:56:21.868 [main] INFO  testCases.TC003_LoginDTT - **** Finished TC003_LoginDTT ****
+04:56:21.872 [main] INFO  testCases.TC003_LoginDTT - **** Starting of TC003_LoginDTT ****
+04:56:23.239 [main] INFO  testCases.TC003_LoginDTT - **** Finished TC003_LoginDTT ****
+04:56:23.241 [main] INFO  testCases.TC003_LoginDTT - **** Starting of TC003_LoginDTT ****
+04:56:24.678 [main] INFO  testCases.TC003_LoginDTT - **** Starting of TC003_LoginDTT ****
+04:56:26.113 [main] INFO  testCases.TC003_LoginDTT - **** Finished TC003_LoginDTT ****
+04:56:26.117 [main] INFO  testCases.TC003_LoginDTT - **** Starting of TC003_LoginDTT ****
+04:56:47.022 [main] INFO  testCases.TC003_LoginDTT - **** Starting of TC003_LoginDTT ****
+04:56:57.083 [main] INFO  testCases.TC003_LoginDTT - **** Starting of TC003_LoginDTT ****
+04:58:05.645 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\MY PERSONAL\eclipse-workspace\SeleniumWebDriver\OpenCartV121\master.xml
+
+04:58:10.434 [main] INFO  testCases.TC003_LoginDTT - **** Starting of TC003_LoginDTT ****
+04:58:11.957 [main] INFO  testCases.TC003_LoginDTT - **** Finished TC003_LoginDTT ****
+04:58:11.960 [main] INFO  testCases.TC003_LoginDTT - **** Starting of TC003_LoginDTT ****
+04:58:13.284 [main] INFO  testCases.TC003_LoginDTT - **** Finished TC003_LoginDTT ****
+04:58:13.287 [main] INFO  testCases.TC003_LoginDTT - **** Starting of TC003_LoginDTT ****
+04:58:14.680 [main] INFO  testCases.TC003_LoginDTT - **** Finished TC003_LoginDTT ****
+04:58:14.683 [main] INFO  testCases.TC003_LoginDTT - **** Starting of TC003_LoginDTT ****
+04:58:16.092 [main] INFO  testCases.TC003_LoginDTT - **** Starting of TC003_LoginDTT ****
+04:58:17.564 [main] INFO  testCases.TC003_LoginDTT - **** Finished TC003_LoginDTT ****
+04:58:17.567 [main] INFO  testCases.TC003_LoginDTT - **** Starting of TC003_LoginDTT ****
+04:58:38.589 [main] INFO  testCases.TC003_LoginDTT - **** Starting of TC003_LoginDTT ****
+04:58:49.658 [main] INFO  testCases.TC003_LoginDTT - **** Starting of TC003_LoginDTT ****
+04:58:51.099 [main] INFO  testCases.TC003_LoginDTT - **** Finished TC003_LoginDTT ****
+13:21:00.762 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\MY PERSONAL\eclipse-workspace\SeleniumWebDriver\OpenCartV121\grouping.xml
+
+13:21:05.042 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+13:21:06.020 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Clicked on My Account Link ****
+13:21:06.630 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Clicked on Register Link ****
+13:21:06.631 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Providing customer details ****
+13:21:07.684 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Validating expected Message ****
+13:21:09.745 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+13:21:12.856 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ****
+13:21:12.950 [main] INFO  testCases.TC002_LoginTest - **** Clicked on My Account Link ****
+13:21:13.181 [main] INFO  testCases.TC002_LoginTest - **** Clicked on Login Link ****
+13:21:13.909 [main] INFO  testCases.TC002_LoginTest - **** Validating expected Message ****
+13:21:15.935 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
+13:22:09.510 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\MY PERSONAL\eclipse-workspace\SeleniumWebDriver\OpenCartV121\grouping.xml
+
+13:22:20.253 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\MY PERSONAL\eclipse-workspace\SeleniumWebDriver\OpenCartV121\grouping.xml
+
+13:22:36.194 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\MY PERSONAL\eclipse-workspace\SeleniumWebDriver\OpenCartV121\grouping.xml
+
+13:22:39.891 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+13:22:39.982 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Clicked on My Account Link ****
+13:22:40.521 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Clicked on Register Link ****
+13:22:40.523 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Providing customer details ****
+13:22:41.932 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Validating expected Message ****
+13:22:43.983 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+13:22:48.256 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ****
+13:22:48.400 [main] INFO  testCases.TC002_LoginTest - **** Clicked on My Account Link ****
+13:22:48.664 [main] INFO  testCases.TC002_LoginTest - **** Clicked on Login Link ****
+13:22:49.660 [main] INFO  testCases.TC002_LoginTest - **** Validating expected Message ****
+13:22:51.707 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
+13:24:55.251 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\MY PERSONAL\eclipse-workspace\SeleniumWebDriver\OpenCartV121\grouping.xml
+
+13:24:58.793 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ****
+13:24:58.943 [main] INFO  testCases.TC002_LoginTest - **** Clicked on My Account Link ****
+13:24:59.169 [main] INFO  testCases.TC002_LoginTest - **** Clicked on Login Link ****
+13:25:00.140 [main] INFO  testCases.TC002_LoginTest - **** Validating expected Message ****
+13:25:02.182 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
+13:25:22.808 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\MY PERSONAL\eclipse-workspace\SeleniumWebDriver\OpenCartV121\grouping.xml
+
+13:25:26.374 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+13:25:26.471 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Clicked on My Account Link ****
+13:25:27.096 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Clicked on Register Link ****
+13:25:27.098 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Providing customer details ****
+13:25:28.122 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Validating expected Message ****
+13:25:30.155 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+13:25:45.457 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\MY PERSONAL\eclipse-workspace\SeleniumWebDriver\OpenCartV121\grouping.xml
+
+13:25:49.574 [main] INFO  testCases.TC003_LoginDTT - **** Starting of TC003_LoginDTT ****
+13:25:51.417 [main] INFO  testCases.TC003_LoginDTT - **** Finished TC003_LoginDTT ****
+13:25:51.422 [main] INFO  testCases.TC003_LoginDTT - **** Starting of TC003_LoginDTT ****
+13:25:52.753 [main] INFO  testCases.TC003_LoginDTT - **** Finished TC003_LoginDTT ****
+13:25:52.755 [main] INFO  testCases.TC003_LoginDTT - **** Starting of TC003_LoginDTT ****
+13:25:54.121 [main] INFO  testCases.TC003_LoginDTT - **** Finished TC003_LoginDTT ****
+13:25:54.123 [main] INFO  testCases.TC003_LoginDTT - **** Starting of TC003_LoginDTT ****
+13:25:55.509 [main] INFO  testCases.TC003_LoginDTT - **** Starting of TC003_LoginDTT ****
+13:25:56.876 [main] INFO  testCases.TC003_LoginDTT - **** Finished TC003_LoginDTT ****
+13:25:56.878 [main] INFO  testCases.TC003_LoginDTT - **** Starting of TC003_LoginDTT ****
+13:26:17.837 [main] INFO  testCases.TC003_LoginDTT - **** Starting of TC003_LoginDTT ****
+13:26:29.027 [main] INFO  testCases.TC003_LoginDTT - **** Starting of TC003_LoginDTT ****
+13:26:30.968 [main] INFO  testCases.TC003_LoginDTT - **** Finished TC003_LoginDTT ****
+13:31:03.291 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\MY PERSONAL\eclipse-workspace\SeleniumWebDriver\OpenCartV121\grouping.xml
+
+13:31:41.893 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\MY PERSONAL\eclipse-workspace\SeleniumWebDriver\OpenCartV121\grouping.xml
+
+19:04:56.126 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\MY PERSONAL\eclipse-workspace\SeleniumWebDriver\OpenCartV121\master.xml
+
+19:05:01.400 [main] INFO  testCases.TC003_LoginDTT - **** Starting of TC003_LoginDTT ****
+19:05:02.921 [main] INFO  testCases.TC003_LoginDTT - **** Finished TC003_LoginDTT ****
+19:05:02.927 [main] INFO  testCases.TC003_LoginDTT - **** Starting of TC003_LoginDTT ****
+19:05:04.211 [main] INFO  testCases.TC003_LoginDTT - **** Finished TC003_LoginDTT ****
+19:05:04.215 [main] INFO  testCases.TC003_LoginDTT - **** Starting of TC003_LoginDTT ****
+19:05:07.124 [main] INFO  testCases.TC003_LoginDTT - **** Finished TC003_LoginDTT ****
+19:05:07.127 [main] INFO  testCases.TC003_LoginDTT - **** Starting of TC003_LoginDTT ****
+19:05:08.535 [main] INFO  testCases.TC003_LoginDTT - **** Starting of TC003_LoginDTT ****
+19:05:09.838 [main] INFO  testCases.TC003_LoginDTT - **** Finished TC003_LoginDTT ****
+19:05:09.842 [main] INFO  testCases.TC003_LoginDTT - **** Starting of TC003_LoginDTT ****
+19:05:30.769 [main] INFO  testCases.TC003_LoginDTT - **** Starting of TC003_LoginDTT ****
+19:05:41.999 [main] INFO  testCases.TC003_LoginDTT - **** Starting of TC003_LoginDTT ****
+19:05:43.814 [main] INFO  testCases.TC003_LoginDTT - **** Finished TC003_LoginDTT ****
+19:10:48.609 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\MY PERSONAL\eclipse-workspace\SeleniumWebDriver\OpenCartV121\grouping.xml
+
+19:10:52.599 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+19:10:52.765 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Clicked on My Account Link ****
+19:10:53.333 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Clicked on Register Link ****
+19:10:53.335 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Providing customer details ****
+19:10:54.441 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Validating expected Message ****
+19:10:56.487 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+19:11:00.597 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ****
+19:11:00.740 [main] INFO  testCases.TC002_LoginTest - **** Clicked on My Account Link ****
+19:11:01.010 [main] INFO  testCases.TC002_LoginTest - **** Clicked on Login Link ****
+19:11:02.041 [main] INFO  testCases.TC002_LoginTest - **** Validating expected Message ****
+19:11:04.100 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
+19:16:07.347 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\MY PERSONAL\eclipse-workspace\SeleniumWebDriver\OpenCartV121\grouping.xml
+
+19:16:11.131 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+19:16:11.274 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Clicked on My Account Link ****
+19:16:11.874 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Clicked on Register Link ****
+19:16:11.876 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Providing customer details ****
+19:16:13.264 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Validating expected Message ****
+19:16:15.308 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+19:16:19.433 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ****
+19:16:19.575 [main] INFO  testCases.TC002_LoginTest - **** Clicked on My Account Link ****
+19:16:19.830 [main] INFO  testCases.TC002_LoginTest - **** Clicked on Login Link ****
+19:16:20.766 [main] INFO  testCases.TC002_LoginTest - **** Validating expected Message ****
+19:28:40.338 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\MY PERSONAL\eclipse-workspace\SeleniumWebDriver\OpenCartV121\test-output\testng-failed.xml
+
+19:28:44.553 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ****
+19:28:45.516 [main] INFO  testCases.TC002_LoginTest - **** Clicked on My Account Link ****
+19:28:45.756 [main] INFO  testCases.TC002_LoginTest - **** Clicked on Login Link ****
+19:28:46.507 [main] INFO  testCases.TC002_LoginTest - **** Validating expected Message ****
+19:29:24.599 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\MY PERSONAL\eclipse-workspace\SeleniumWebDriver\OpenCartV121\test-output\testng-failed.xml
+
+19:29:28.373 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ****
+19:29:28.522 [main] INFO  testCases.TC002_LoginTest - **** Clicked on My Account Link ****
+19:29:28.783 [main] INFO  testCases.TC002_LoginTest - **** Clicked on Login Link ****
+19:29:30.501 [main] INFO  testCases.TC002_LoginTest - **** Validating expected Message ****
+19:29:32.538 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
+19:30:37.759 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\MY PERSONAL\eclipse-workspace\SeleniumWebDriver\OpenCartV121\master.xml
+
+19:30:42.523 [main] INFO  testCases.TC003_LoginDTT - **** Starting of TC003_LoginDTT ****
+19:30:44.094 [main] INFO  testCases.TC003_LoginDTT - **** Finished TC003_LoginDTT ****
+19:30:44.110 [main] INFO  testCases.TC003_LoginDTT - **** Starting of TC003_LoginDTT ****
+19:30:45.536 [main] INFO  testCases.TC003_LoginDTT - **** Finished TC003_LoginDTT ****
+19:30:45.539 [main] INFO  testCases.TC003_LoginDTT - **** Starting of TC003_LoginDTT ****
+19:30:47.241 [main] INFO  testCases.TC003_LoginDTT - **** Finished TC003_LoginDTT ****
+19:30:47.243 [main] INFO  testCases.TC003_LoginDTT - **** Starting of TC003_LoginDTT ****
+19:30:48.888 [main] INFO  testCases.TC003_LoginDTT - **** Starting of TC003_LoginDTT ****
+19:30:50.204 [main] INFO  testCases.TC003_LoginDTT - **** Finished TC003_LoginDTT ****
+19:30:50.207 [main] INFO  testCases.TC003_LoginDTT - **** Starting of TC003_LoginDTT ****
+19:31:11.259 [main] INFO  testCases.TC003_LoginDTT - **** Starting of TC003_LoginDTT ****
+19:31:22.532 [main] INFO  testCases.TC003_LoginDTT - **** Starting of TC003_LoginDTT ****
+19:31:23.980 [main] INFO  testCases.TC003_LoginDTT - **** Finished TC003_LoginDTT ****
+19:32:09.504 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\MY PERSONAL\eclipse-workspace\SeleniumWebDriver\OpenCartV121\master.xml
+
+19:32:13.538 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+19:32:13.761 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Clicked on My Account Link ****
+19:32:14.282 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Clicked on Register Link ****
+19:32:14.284 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Providing customer details ****
+19:32:15.829 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Validating expected Message ****
+19:32:15.877 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed....
+19:32:19.995 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ****
+19:32:20.070 [main] INFO  testCases.TC002_LoginTest - **** Clicked on My Account Link ****
+19:32:20.320 [main] INFO  testCases.TC002_LoginTest - **** Clicked on Login Link ****
+19:32:21.179 [main] INFO  testCases.TC002_LoginTest - **** Validating expected Message ****
+19:32:23.217 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
+19:32:48.469 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\MY PERSONAL\eclipse-workspace\SeleniumWebDriver\OpenCartV121\master.xml
+
+19:32:52.308 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+19:32:52.400 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Clicked on My Account Link ****
+19:32:52.830 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Clicked on Register Link ****
+19:32:52.831 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Providing customer details ****
+19:32:53.937 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Validating expected Message ****
+19:32:53.970 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed....
+19:32:58.063 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ****
+19:32:58.263 [main] INFO  testCases.TC002_LoginTest - **** Clicked on My Account Link ****
+19:32:58.542 [main] INFO  testCases.TC002_LoginTest - **** Clicked on Login Link ****
+19:32:59.227 [main] INFO  testCases.TC002_LoginTest - **** Validating expected Message ****
+19:34:06.471 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\MY PERSONAL\eclipse-workspace\SeleniumWebDriver\OpenCartV121\master.xml
+
+19:34:10.509 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+19:34:10.591 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Clicked on My Account Link ****
+19:34:11.134 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Clicked on Register Link ****
+19:34:11.135 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Providing customer details ****
+19:34:12.717 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Validating expected Message ****
+19:34:14.778 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+19:34:19.085 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ****
+19:34:19.296 [main] INFO  testCases.TC002_LoginTest - **** Clicked on My Account Link ****
+19:34:19.846 [main] INFO  testCases.TC002_LoginTest - **** Clicked on Login Link ****
+19:34:20.600 [main] INFO  testCases.TC002_LoginTest - **** Validating expected Message ****
+19:34:22.661 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
+22:46:13.710 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\MY PERSONAL\eclipse-workspace\SeleniumWebDriver\OpenCartV121\master.xml
+
+22:47:58.560 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\MY PERSONAL\eclipse-workspace\SeleniumWebDriver\OpenCartV121\master.xml
+
+22:49:02.254 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\MY PERSONAL\eclipse-workspace\SeleniumWebDriver\OpenCartV121\master.xml
+
+22:50:47.204 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\MY PERSONAL\eclipse-workspace\SeleniumWebDriver\OpenCartV121\master.xml
+
+22:54:03.107 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\MY PERSONAL\eclipse-workspace\SeleniumWebDriver\OpenCartV121\master.xml
+
+22:54:08.585 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+22:54:08.842 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Clicked on My Account Link ****
+22:54:10.172 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Clicked on Register Link ****
+22:54:10.176 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Providing customer details ****
+22:54:13.051 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Validating expected Message ****
+22:54:15.155 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+22:54:20.978 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ****
+22:54:21.435 [main] INFO  testCases.TC002_LoginTest - **** Clicked on My Account Link ****
+22:54:21.805 [main] INFO  testCases.TC002_LoginTest - **** Clicked on Login Link ****
+22:54:22.854 [main] INFO  testCases.TC002_LoginTest - **** Validating expected Message ****
+22:54:24.942 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
+22:54:47.549 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\MY PERSONAL\eclipse-workspace\SeleniumWebDriver\OpenCartV121\master.xml
+
+22:54:54.096 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+22:54:54.257 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Clicked on My Account Link ****
+22:54:54.830 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Clicked on Register Link ****
+22:54:54.830 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Providing customer details ****
+22:54:56.774 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Validating expected Message ****
+22:54:58.852 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+22:55:04.659 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ****
+22:55:05.149 [main] INFO  testCases.TC002_LoginTest - **** Clicked on My Account Link ****
+22:55:05.682 [main] INFO  testCases.TC002_LoginTest - **** Clicked on Login Link ****
+22:55:07.352 [main] INFO  testCases.TC002_LoginTest - **** Validating expected Message ****
+22:55:09.485 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
+22:57:01.181 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\MY PERSONAL\eclipse-workspace\SeleniumWebDriver\OpenCartV121\crossbrowsertesting.xml
+
+22:57:09.569 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+22:57:09.806 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Clicked on My Account Link ****
+22:57:10.269 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Clicked on Register Link ****
+22:57:10.270 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Providing customer details ****
+22:57:11.752 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Validating expected Message ****
+22:57:13.822 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+09:02:42.530 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+09:02:42.975 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Clicked on My Account Link ****
+09:02:43.462 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Clicked on Register Link ****
+09:02:43.465 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Providing customer details ****
+09:02:45.558 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Validating expected Message ****
+09:02:47.645 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+09:02:56.791 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ****
+09:02:57.215 [main] INFO  testCases.TC002_LoginTest - **** Clicked on My Account Link ****
+09:02:57.549 [main] INFO  testCases.TC002_LoginTest - **** Clicked on Login Link ****
+09:02:58.806 [main] INFO  testCases.TC002_LoginTest - **** Validating expected Message ****
+09:03:00.876 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
+09:18:02.711 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+09:18:03.264 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Clicked on My Account Link ****
+09:18:03.992 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Clicked on Register Link ****
+09:18:04.001 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Providing customer details ****
+09:18:07.916 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Validating expected Message ****
+09:18:10.036 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+09:18:20.751 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ****
+09:18:21.122 [main] INFO  testCases.TC002_LoginTest - **** Clicked on My Account Link ****
+09:18:21.451 [main] INFO  testCases.TC002_LoginTest - **** Clicked on Login Link ****
+09:18:23.092 [main] INFO  testCases.TC002_LoginTest - **** Validating expected Message ****
+09:18:25.232 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
+09:21:14.626 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+09:21:15.048 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Clicked on My Account Link ****
+09:21:15.616 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Clicked on Register Link ****
+09:21:15.620 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Providing customer details ****
+09:21:20.091 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Validating expected Message ****
+09:21:22.219 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+09:21:32.630 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ****
+09:21:33.207 [main] INFO  testCases.TC002_LoginTest - **** Clicked on My Account Link ****
+09:21:33.591 [main] INFO  testCases.TC002_LoginTest - **** Clicked on Login Link ****
+09:21:36.042 [main] INFO  testCases.TC002_LoginTest - **** Validating expected Message ****
+09:21:38.185 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
